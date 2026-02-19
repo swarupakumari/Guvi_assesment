@@ -134,7 +134,8 @@ Register → Login → Profile → Update Profile
 ---
 
 ### 📊 MongoDB Data
-![MongoDB Data](https://github.com/swarupakari/Guvi_assesment/raw/main/update_in_mongodb.png)
+![MongoDB Data](https://raw.githubusercontent.com/swarupakumari/Guvi_assesment/main/update_in_mongodb.png)
+
 
 
 ## 💻 Setup Instructions
