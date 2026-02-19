@@ -114,24 +114,28 @@ MongoDB collection stores user profile using email as unique identifier.
 Register → Login → Profile → Update Profile
 
 ```
-📸 Screenshots
-🔐 Registration (MySQL)
-https://github.com/swarupakumari/Guvi_assesment/blob/main/register_page.png
-https://github.com/swarupakumari/Guvi_assesment/blob/main/storing%20user%20in%20sql.png
+## 📸 Screenshots
 
+### 🔐 Registration (MySQL)
+![Registration](https://github.com/swarupakumari/Guvi_assesment/raw/main/register_page.png)
 
-🔑 Login
+![MySQL Data Stored](https://github.com/swarupakumari/Guvi_assesment/raw/main/storing%20user%20in%20sql.png)
 
-(http://github.com/swarupakumari/Guvi_assesment/blob/main/loginpage.png)
-
-👤 Profile Page
-https://github.com/swarupakumari/Guvi_assesment/blob/main/profilepage.png
-
-
-📊 MongoDB Data
-
-https://github.com/swarupakumari/Guvi_assesment/blob/main/update_in_mongodb.png
 ---
+
+### 🔑 Login
+![Login](https://github.com/swarupakumari/Guvi_assesment/raw/main/loginpage.png)
+
+---
+
+### 👤 Profile Page
+![Profile Page](https://github.com/swarupakumari/Guvi_assesment/raw/main/profilepage.png)
+
+---
+
+### 📊 MongoDB Data
+![MongoDB Data](https://github.com/swarupakari/Guvi_assesment/raw/main/update_in_mongodb.png)
+
 
 ## 💻 Setup Instructions
 
